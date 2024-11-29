@@ -1,4 +1,5 @@
 # Das ist mein erstes Bash Skript
+# Author: Polina Solonets
 echo "Skript startet"
 for FILE in *txt
 do
